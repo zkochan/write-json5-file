@@ -1,5 +1,7 @@
 # write-json5-file
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zkochan/write-json5-file.svg)](https://greenkeeper.io/)
+
 > Stringify and write JSON to a file atomically
 
 <!--@shields('npm', 'travis')-->
