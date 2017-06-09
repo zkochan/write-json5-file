@@ -47,7 +47,7 @@
     "json5": "^0.5.1",
     "mkdirp": "^0.5.1",
     "pify": "^3.0.0",
-    "sort-keys": "^1.1.2",
+    "sort-keys": "^2.0.0",
     "write-file-atomic": "^2.0.0"
   },
   "devDependencies": {
