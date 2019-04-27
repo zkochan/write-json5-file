@@ -1,3 +1,5 @@
+> this package was moved to https://github.com/zkochan/packages/tree/master/write-json5-file
+
 # write-json5-file
 
 > Stringify and write JSON to a file atomically
